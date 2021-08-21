@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SoReFetch": {
+      "commandName": "Project",
+      "commandLineArgs": "-t RM-1085"
+    }
+  }
+}
